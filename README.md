@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### **4️⃣ Download and Place Model Checkpoints**
 - Download the **Wav2Lip checkpoint** from:  
-  💽 [Google Drive Link](https://drive.google.com/drive/folders/1W9mq3vAl83VVjuEv9TOpATQojcI9D7Kb)  
+  💽 https://iiitaphyd-my.sharepoint.com/personal/radrabha_m_research_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fradrabha%5Fm%5Fresearch%5Fiiit%5Fac%5Fin%2FDocuments%2FWav2Lip%5FModels%2Flipsync%5Fexpert%2Epth&parent=%2Fpersonal%2Fradrabha%5Fm%5Fresearch%5Fiiit%5Fac%5Fin%2FDocuments%2FWav2Lip%5FModels&ga=1  
 - Place the `.pth` file inside the `checkpoints/` folder.
 
 ### **5️⃣ Generate Audio from Text (TTS)**
